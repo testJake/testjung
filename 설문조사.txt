@@ -1,0 +1,3 @@
+설문조사 테이블
+create table poll(option varchar2(20), count number(20));
+
